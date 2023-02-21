@@ -1,0 +1,23 @@
+.mermaid[data-diagram-width="125"] svg{
+    width: 125%;
+}
+
+.mermaid[data-diagram-width="150"] svg{
+    width: 150%;
+}
+
+.mermaid[data-diagram-width="175"] svg{
+    width: 175%;
+}
+
+.mermaid[data-diagram-width="200"] svg{
+    width: 200%;
+}
+
+.mermaid[data-diagram-width="225"] svg{
+    width: 225%;
+}
+
+.mermaid[data-diagram-width="250"] svg{
+    width: 250%;
+}

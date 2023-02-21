@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "0c9062dd2b523529",
+    "type": "split",
+    "children": [
+      {
+        "id": "681ef81ba9ac188b",
+        "type": "tabs",
+        "dimension": 56.449834619625136,
+        "children": [
+          {
+            "id": "8a178fa663780218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide Shows/Demo Slide Show.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e889d905a3e44f2b",
+        "type": "tabs",
+        "dimension": 43.550165380374864,
+        "children": [
+          {
+            "id": "f51602facc886298",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cddfe1e441a5d059",
+    "type": "split",
+    "children": [
+      {
+        "id": "048393fa384e22da",
+        "type": "tabs",
+        "dimension": 51.59722222222223,
+        "children": [
+          {
+            "id": "c40730db844dfcba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0002073ccfefc4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e195f9cf8aa2380",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6197c00b5821c990",
+        "type": "tabs",
+        "dimension": 48.40277777777778,
+        "children": [
+          {
+            "id": "cb0e85f3cdf55b91",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide Show Options/OBS Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "37dbd6939a15c6dd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide Show Options/Background Options.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "aac6743f7cb53902",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide Show Options/Callouts.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e0aa21cf067493f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide Show Options/Reveal JS Features.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7bce71d8b94bf6e3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide Show Options/Mermaid Diagram Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "51f9c59fa6bf5d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide Show Options/Fragments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a78018754623b4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slide Show Options/Grid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 469.5
+  },
+  "right": {
+    "id": "13cbd48013e07e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "52b97cab700b9a80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d84a05b6a38c6ff2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slide Show Options/Reveal JS Features.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "243053cfc090aa66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Slide Show Options/Reveal JS Features.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4234c964c932f086",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c2292fb0a80d4b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Slide Show Options/Reveal JS Features.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "e0aa21cf067493f4",
+  "lastOpenFiles": [
+    "Slide Shows/Demo Slide Show.md",
+    "Slide Show Options/Grid.md",
+    "Slide Show Options/Fragments.md",
+    "CSS snippets.md",
+    "Slide Show Options/reveal configuration Options.md",
+    "Slide Show Options/Reveal Templates.md",
+    "Slide Show Options/Icons.md",
+    "javascript.md",
+    "Node.js.md",
+    "OBS.md"
+  ]
+}

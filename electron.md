@@ -1,0 +1,1 @@
+Electron embeds Chromium and [[Node.js]] to enable web developers to create desktop applications.
